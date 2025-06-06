@@ -14,6 +14,12 @@ Hello world
    :hidden:
    :caption: Contents:
 
+Indices and tables
+==================
+
+* :ref:'genindex'
+* :ref:'modindex'
+
    Options/logic
    Options/code
    Options/hardware
