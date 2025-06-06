@@ -11,5 +11,18 @@ Hello world
 
 .. toctree::
    :maxdepth: 2
+   :hidden:
    :caption: Contents:
 
+   options/logic
+   options/code
+   options/hardware
+   options/hardwareandcode
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Guidelines:
+
+   guidelines/contents
+   guidelines/workflow
