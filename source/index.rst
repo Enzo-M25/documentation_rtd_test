@@ -14,15 +14,15 @@ Hello world
    :hidden:
    :caption: Contents:
 
-   options/logic
-   options/code
-   options/hardware
-   options/hardwareandcode
+   Options/logic
+   Options/code
+   Options/hardware
+   Options/hardwareandcode
 
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: Guidelines:
 
-   guidelines/contents
-   guidelines/workflow
+   Guidelines/contents
+   Guidelines/workflow
