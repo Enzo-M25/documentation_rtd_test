@@ -1,24 +1,31 @@
-.. ReadTheDocs_tutorial documentation master file, created by
-   sphinx-quickstart on Fri Jun  6 11:53:17 2025.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
 
-ReadTheDocs_tutorial documentation
-==================================
+ReadTheDocs Tutorial
+====================
 
 Hello world
 
+*Ceci est écrit en italique.*
+
+**Ceci est écrit en gras.**
+
+Ceci est une ``codebox``.
+
+.. caution::
+   Ceci est un texte dans une colorbox warning
+
+.. danger::
+   Ceci est un texte dans une colorbox danger
+
+.. tip::
+   Ceci est un texte dans une colorbox conseil
+
+.. note::
+   Ceci est un texte dans une colorbox note
 
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: Contents:
-
-Indices and tables
-==================
-
-* :ref:'genindex'
-* :ref:'modindex'
 
    Options/logic
    Options/code
@@ -32,3 +39,4 @@ Indices and tables
 
    Guidelines/contents
    Guidelines/workflow
+
