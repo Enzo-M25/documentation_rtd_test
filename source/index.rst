@@ -22,6 +22,8 @@ Ceci est une ``codebox``.
 .. note::
    Ceci est un texte dans une colorbox note
 
+Here is some new content
+
 .. toctree::
    :maxdepth: 2
    :hidden:
