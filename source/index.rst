@@ -5,7 +5,7 @@ ReadTheDocs Tutorial
 Hello new world
 
 Here is some new content.
-And aain from VSCode
+And again from VSCode
 
 Extra content from GitHub
 
