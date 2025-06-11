@@ -2,7 +2,7 @@
 ReadTheDocs Tutorial
 ====================
 
-Hello world
+Hello new world
 
 *Ceci est écrit en italique.*
 
