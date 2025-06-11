@@ -6,6 +6,8 @@ Hello new world
 
 Here is some new content.
 
+Extra content from GitHub
+
 *Ceci est écrit en italique.*
 
 **Ceci est écrit en gras.**
