@@ -7,6 +7,8 @@ Hello new world
 Here is some new content.
 And aain from VSCode
 
+Extra content from GitHub
+
 *Ceci est écrit en italique.*
 
 **Ceci est écrit en gras.**
