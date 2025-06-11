@@ -7,6 +7,8 @@ Hello new world
 Here is some new content.
 And again from VSCode
 
+Un autre changement
+
 Extra content from GitHub
 
 *Ceci est écrit en italique.*
