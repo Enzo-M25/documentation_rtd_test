@@ -4,6 +4,8 @@ ReadTheDocs Tutorial
 
 Hello new world
 
+Here is some new content.
+
 *Ceci est écrit en italique.*
 
 **Ceci est écrit en gras.**
@@ -21,8 +23,6 @@ Ceci est une ``codebox``.
 
 .. note::
    Ceci est un texte dans une colorbox note
-
-Here is some new content
 
 .. toctree::
    :maxdepth: 2
